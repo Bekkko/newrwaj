@@ -13,7 +13,11 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+           
+
+    اساليب الحياه المختلفه وكل ماهو رائج والمهمات
+
+<a href="rwa2ej.com">↖️</a> <a href="https://rwa2ej.com/" target="_blank">روائج</a>
         </p>
       </main>
 
